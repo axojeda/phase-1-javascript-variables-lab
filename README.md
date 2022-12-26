@@ -1,4 +1,4 @@
-# Review: Variables Lab
+cd # Review: Variables Lab
 
 ## Learning Goals
 
